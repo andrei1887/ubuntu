@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="nautilus-autorun-software.desktop" open-window-count="0" score="1" last-seen="1509795888"/>
+    <application id="firefox.desktop" open-window-count="1" score="41" last-seen="1509888071"/>
+    <application id="update-manager.desktop" open-window-count="0" score="134" last-seen="1509885833"/>
+    <application id="gnome-mines.desktop" open-window-count="0" score="12" last-seen="1509798183"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="12101" last-seen="1509887968"/>
+  </context>
+</application-state>

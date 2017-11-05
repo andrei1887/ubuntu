@@ -1,0 +1,14 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="ChooseRunConfiguration" count="1" />
+      <entry action="EditorBackSpace" count="22" />
+      <entry action="EditorDown" count="3" />
+      <entry action="EditorEnter" count="8" />
+      <entry action="EditorRight" count="1" />
+      <entry action="EditorUp" count="3" />
+      <entry action="NewFile" count="2" />
+      <entry action="SaveAll" count="3" />
+    </counts>
+  </component>
+</application>
